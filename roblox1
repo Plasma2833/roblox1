@@ -1,0 +1,2 @@
+UserName = "mastergamer5838"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
